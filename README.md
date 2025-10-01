@@ -69,5 +69,4 @@ This project is in the **public domain**, free to use and modify.
 
 ---
 
-## Author
-Husain Sakarwala
+
